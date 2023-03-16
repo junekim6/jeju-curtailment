@@ -125,6 +125,7 @@ p.kicker {
 
 h1.headline {
     font-size: 3rem;
+    text-transform: capitalize;
     line-height: 1.1;
     margin-bottom: 0.25rem;
     margin-top: 1rem;
@@ -310,7 +311,7 @@ p.caption {
         font-size: 0.8rem;
     }
 }
-
+z
 /* These are the styles for ai2html */
 
 #g-re-growth-medium,
