@@ -311,7 +311,7 @@ p.caption {
         font-size: 0.8rem;
     }
 }
-z
+
 /* These are the styles for ai2html */
 
 #g-re-growth-medium,
@@ -327,7 +327,7 @@ z
 @media (max-width: 480px) {
     #g-re-growth-mobile,
     #g-capacity_generation_chart-mobile,
-    #g-curtailment-frequency-mobile{
+    #g-curtailment-frequency-mobile {
         display: block;
     }
 }
